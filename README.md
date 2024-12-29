@@ -71,3 +71,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/mohd-riz/leetcode-solution" target="_blank" rel="noreferrer">
+    📂 <b>LeetCode Solutions Repository</b>
+  </a>
+</p>
+
